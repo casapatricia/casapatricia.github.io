@@ -12,7 +12,7 @@ function add_image_thumbnails_with_links( index, container ) {
       ? basename
       : basename + '.jpg';
     $('<a/>')
-      .append($('<img>')
+      .append($('<img class="thumb">')
       .prop('src', baseUrl + 'thumb/' + filename))
       .prop('href', baseUrl + filename)
       .prop('title', basename)
