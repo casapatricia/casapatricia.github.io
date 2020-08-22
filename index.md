@@ -13,6 +13,8 @@ Contacto: 619-664-282
   </div>
 </center>
 
+<p></p>
+
 ### Fotografías
 
 - [Dormitorio grande con cama matrimonio](photo/2020-08-12_nerja_paradise/dormitorio_grande_matrimonio.jpg)
@@ -31,9 +33,9 @@ Contacto: 619-664-282
 - [Cuarto de baño](photo/2020-08-12_nerja_paradise/cuarto_de_baño.jpg)
 - [Cuarto de baño y ducha](photo/2020-08-12_nerja_paradise/cuarto_de_baño_ducha.jpg)
 
+<!-- 
 <p style="font-size:60%">Copyright &#169; 2020 by <a href="https://github.com/casapatricia/casapatricia.github.io">Patricia Nerja</a></p>
 
-<!-- 
 https://casapatricia.github.io/photo/2020-08-12_nerja_paradise/thumb/cuarto_de_ban%CC%83o_ducha.jpg
 https://github.com/casapatricia/casapatricia.github.io/blob/master/photo/2020-08-12_nerja_paradise/thumb/cuarto_de_ba%C3%B1o_ducha.jpg
 
