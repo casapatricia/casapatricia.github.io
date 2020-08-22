@@ -31,3 +31,4 @@ Contacto: 619-664-282
 - [Vistas plaza Andalucía del salón](photo/2020-08-12_nerja_paradise/vistas_plaza_andalucia.jpg)
 - [Vistas plaza Andalucía del salón](photo/2020-08-12_nerja_paradise/vistas_plaza_andalucia_2.jpg)
 
+<p style="font-size:60%">Copyright &#169; 2020 by <a href="https://github.com/casapatricia/casapatricia.github.io">Patricia Nerja</a></p>
