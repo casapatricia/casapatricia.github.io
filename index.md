@@ -9,6 +9,6 @@ Zona Plaza Andalucía, tranquila y céntrica, a 5 minutos de la playa y 10 min
 Contacto: 619-664-282
 
 <center>
-  <div jtgallery="2020-08-12_nerja_paradise,cocina;cocina_2;cocina_3;cuarto_de_baño_ducha;cuarto_de_baño;dormitorio_grande_matrimonio;dormitorio_grande_matrimonio_2;dormitorio_medio_dos_camas;dormitorio_medio_dos_camas_2;dormitorio_pequeno_dos_camas;photos.txt,salón;salón_2;vistas_plaza_andalucia;vistas_plaza_andalucia_2.jpg">
+  <div jtgallery="2020-08-12_nerja_paradise,cocina,cocina_2,cocina_3,cuarto_de_baño_ducha,cuarto_de_baño,dormitorio_grande_matrimonio,dormitorio_grande_matrimonio_2,dormitorio_medio_dos_camas,dormitorio_medio_dos_camas_2,dormitorio_pequeno_dos_camas,salón,salón_2,vistas_plaza_andalucia,vistas_plaza_andalucia_2">
   </div>
 </center>
