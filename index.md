@@ -6,6 +6,8 @@ Tres dormitorios generosos, salón con balcón, cocina grande equipado con ele
 
 Zona Plaza Andalucía, tranquila y céntrica, a 5 minutos de la playa y 10 minutos del Balcón de Europa.
 
+Precio por semana en agosto: 750 Euro
+
 Contacto: 619-664-282
 
 <center>
