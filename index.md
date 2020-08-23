@@ -50,6 +50,9 @@ https://casapatricia.github.io/photo/2020-08-12/thumb/cuarto_de_ban%CC%83o_ducha
 
 https://casapatricia.github.io/photo/2020-08-12/thumb/cuarto_de_ba%C3%B1o.jpg
 https://github.com/casapatricia/casapatricia.github.io/blob/master/photo/2020-08-12/thumb/cuarto_de_ba%C3%B1o.jpg
+
+https://github.com/casapatricia/casapatricia.github.io/blob/master/photo/2020-07-24/thumb/1_dormitorio_grande.jpg
+https://casapatricia.github.io/photo/2020-07-24/thumb/1_dormitorio_grande.jpg
 -->
 
 <center>
