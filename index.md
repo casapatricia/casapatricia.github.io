@@ -40,8 +40,7 @@ Contacto: 619-664-282
 <!-- 
 <p style="font-size:60%">Copyright &#169; 2020 by <a href="https://github.com/casapatricia/casapatricia.github.io">Patricia Nerja</a></p>
 
-https://casapatricia.github.io/photo/2020-08-12/thumb/cuarto_de_ban%CC%83o_ducha.jpg
-https://github.com/casapatricia/casapatricia.github.io/blob/master/photo/2020-08-12/thumb/cuarto_de_ba%C3%B1o_ducha.jpg
+https://casapatricia.github.io/photo/2020-08-12/thumb/cuarto_de_ban%CC%83o_ducha,https://github.com/casapatricia/casapatricia.github.io/blob/master/photo/2020-08-12/thumb/cuarto_de_ba%C3%B1o_ducha.jpg
 
 http://127.0.0.1:4000/photo/2020-08-12/cuarto_de_ban%CC%83o_ducha.jpg
 
@@ -52,3 +51,11 @@ https://casapatricia.github.io/photo/2020-08-12/thumb/cuarto_de_ban%CC%83o_ducha
 https://casapatricia.github.io/photo/2020-08-12/thumb/cuarto_de_ba%C3%B1o.jpg
 https://github.com/casapatricia/casapatricia.github.io/blob/master/photo/2020-08-12/thumb/cuarto_de_ba%C3%B1o.jpg
 -->
+
+<center>
+  <div jtgallery="2020-07-24,1_dormitorio_grande,2_dormitorio_medio,3_dormitorio_pequeno,4_salon,5_cocina,6_cocina_2,7_bano,8_bano_2,9_pasillo,9a_pasillo_2">
+  </div>
+
+  <div jtgallery="2020-07-25,1_dormitorio_grande,2_dormitorio_medio,3_dormitorio_peq,4_salon,5_salon,6_salon,7_cocina">
+  </div>
+</center>
