@@ -4,13 +4,15 @@
 
 <a name="castillano"></a>Se alquila Casa Patricia, un apartamento precioso en Nerja.
 
-Tres dormitorios generosos, salón con balcón, cocina grande equipado con electrodomésticos nuevos de primera calidad, baño, superficie 80 metros, ascencor.
+Tres dormitorios, salón con balcón, cocina, baño, superficie 80 metros, ascencor.
+
+Hermoso piso para una familia de 6 o más en alquiler: 3 dormitorios, uno grande con cama de matrimonio, dos medianos con dos camas individuales cada uno, salón suroeste con vistas dobles en dos direcciones, balcón con vista a la Plaza Andalucía , baño con bidet y ducha, cocina grande equipado con electrodomésticos nuevos de primera calidad, lavavajillas, lavadora, microondas, 80 metros cuadrados.
+
+<a name="english"></a><i>Beautiful flat for a family of 6 or more for rent: 3 bedroms, one large with double bed, two medium with two twin beds each, living room on the south-west corner with double aspect views in two directions, balcony overlooking the Plaza Andalucia, bathroom with bidet and shower, fully equipped kitchen, dishwasher, washing machine, microwave, lift, 80 square metres.</i>
 
 Zona Plaza Andalucía, tranquila y céntrica, a 5 minutos de la playa y 10 minutos del Balcón de Europa.
 
-<a name="english"></a>Beautiful flat for a family of 6 or more for rent: 3 bedroms, one large with double bed, two medium with two twin beds each, living room on the south-west corner with double aspect views in two directions, balcony overlooking the Plaza Andalucia, bathroom with bidet and shower, fully equipped kitchen, dishwasher, washing machine, microwave, lift, 80 square metres.
-
-Precio por semana en agosto / price per week in August: 750 Euro
+Precio por semana en agosto / <i>price per week in August</i>: 750 Euro
 
 Contacto: 619-664-282
 
