@@ -8,9 +8,9 @@
 
 Zona Plaza Andalucía, tranquila y céntrica, a 5 minutos de la playa y 10 minutos del Balcón de Europa.
 
-Precio por semana en agosto / <i>price per week in August</i>: 750 Euro
+Precio por semana en agosto / <i>price per week in August</i>: 750 Euro.
 
-<!-- Contacto: 619-664-282 -->
+<!-- Contacto: 619-664-282. -->
 
 <center>
   <div jtgallery="2020-08-12,dormitorio_grande_matrimonio,dormitorio_grande_matrimonio_2,dormitorio_medio_dos_camas,dormitorio_medio_dos_camas_2,dormitorio_pequeno_dos_camas,salón,salón_2,vistas_plaza_andalucia,vistas_plaza_andalucia_2,balcón_y_vistas_plaza_andalucia,cocina,cocina_2,cocina_3,cuarto_de_baño,cuarto_de_baño_ducha">
