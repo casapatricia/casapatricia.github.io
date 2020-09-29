@@ -6,13 +6,12 @@
 
 Zona Plaza Andalucía, tranquila y céntrica, a 5 minutos de la playa y 10 minutos del Balcón de Europa.
 
-<p id="xlated"><i>Beautiful flat for a family of 6 or more for rent:
-3 bedrooms, one large with double bed, two medium with two twin beds each, living room on the south-west corner with double aspect views in two directions, small balcony overlooking the Plaza Andalucia, bathroom with bidet and shower, fully equipped kitchen, dishwasher, washing machine, microwave, 80 square metres, lift.
-Calm and central, 5 minutes from the beach, 10 minutes to the Balcón de Europa.</i></p>
-
 Precios entre Octubre y Marzo: Euro 300 por semana o 750 por mes
 
-<i>Prices per week from October to March: Euro 300 per week or 750 per month</i>
+<i id="xlated">Beautiful flat for a family of 6 or more for rent:
+3 bedrooms, one large with double bed, two medium with two twin beds each, living room on the south-west corner with double aspect views in two directions, small balcony overlooking the Plaza Andalucia, bathroom with bidet and shower, fully equipped kitchen, dishwasher, washing machine, microwave, 80 square metres, lift.
+Calm and central, 5 minutes from the beach, 10 minutes to the Balcón de Europa.
+Prices from October to March: Euro 300 per week, 750 per month.</i>
 
 Contacto: Tel. +34-619-664-282, [Email correo electronico a Casa Patricia](mailto:Casa Patricia <jeremy@tammik.ca>)
 

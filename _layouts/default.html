@@ -63,7 +63,14 @@
     <script>
       function setlang(lang) {
         //alert(e.alt.substr(0,2));
-        alert(lang);
+        //alert(lang);
+        var xlations = {
+          'ch': 'Schöni Wohnig für e Familie vo 6 Persone oder me zvermiete: 3 Schlafzimmer, eis gross mit Doppelbett, zwei mittel mit je zwei Einzelbetter, Stube a de Südwestegge mit Blick i zwei Richtige, chline Balkon mit Blick über d Plaza Andalucía, Badzimmer mit Bidet und Duschi, voll und neu usgstatteti Chuchi, Geschirrspüler, Wöschmaschine, Mikrowälle, 80 qm Wohnflächi, Lift. Ruhig und zentral, 5 Minute zfuess zum Strand, 10 Minute zum Balcón de Europa. Pris vom Oktober bis März: 300 Euro pro Wuche, 750 Euro pro Monet.',
+          'de': 'Schöne Wohnung für eine Familie von 6 Personen oder mehr zu vermieten: 3 Schlafzimmer, eines groß mit Doppelbett, zwei mittel mit je zwei Einzelbetten, Wohnzimmer an der Südwestecke mit Blick in zwei Richtungen, kleiner Balkon mit Blick über die Plaza Andalucía, Badezimmer mit Bidet und Dusche, voll und neu ausgestattete Küche, Geschirrspüler, Waschmaschine, Mikrowelle, 80 qm Wohnfläche, Aufzug. Ruhig und zentral, 5 Minuten zu Fuß zum Strand, 10 Minuten zum Balcón de Europa. Preis von Oktober bis März: 300 Euro pro Woche, 750 Euro pro Monat.',
+          'en': 'Beautiful flat for a family of 6 or more for rent: 3 bedrooms, one large with double bed, two medium with two twin beds each, living room on the south-west corner with double aspect views in two directions, small balcony overlooking the Plaza Andalucia, bathroom with bidet and shower, fully equipped kitchen, dishwasher, washing machine, microwave, 80 square metres, lift. Calm and central, 5 minutes from the beach, 10 minutes to the Balcón de Europa. Price from October to March: Euro 300 per week, 750 per month.',
+          'se': 'Vacker lägenhet för en familj på 6 eller fler att hyra: 3 sovrum, ett stort med dubbelsäng, två medelstora med två enkelsängar vardera, vardagsrum i sydvästra hörnet med dubbel sidoutsikt i två riktningar, liten balkong med utsikt över Plaza Andalucía, badrum med bidé och dusch, fullt utrustat kök, diskmaskin, tvättmaskin, mikrovågsugn, 80 kvadratmeter, hiss. Lugnt och centralt, 5 minuter till fots från stranden, 10 minuter till Balcón de Europa. Pris från oktober till mars: 300 euro per vecka, 750 per månad.'
+        }
+        document.getElementById("xlated").innerHTML = xlations[lang];  
       }
     </script>
     
@@ -73,7 +80,7 @@
   <body>
     <div>
     <p>
-    <img src="icon/es.png" alt="Castillano" title="Castillano" width="30" onclick="setlang('es')"/>
+    <img src="icon/ch.png" alt="Schwiizerduetsch" title="Schwiizerduetsch" width="30" onclick="setlang('ch')"/>
     &nbsp;
     <img src="icon/de.png" alt="Deutsch" title="Deutsch" width="30" onclick="setlang('de')"/>
     &nbsp;
