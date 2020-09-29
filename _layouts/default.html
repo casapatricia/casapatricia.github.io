@@ -59,10 +59,29 @@
     <script src="js/lightgallery.min.js"></script>
     <script src="js/jtgallery.js"></script>
     
+    <!-- language stuff -->
+    <script>
+      function setlang(lang) {
+        //alert(e.alt.substr(0,2));
+        alert(lang);
+      }
+    </script>
+    
     {% seo %}
   </head>
 
   <body>
+    <div>
+    <p>
+    <img src="icon/es.png" alt="Castillano" title="Castillano" width="30" onclick="setlang('es')"/>
+    &nbsp;
+    <img src="icon/de.png" alt="Deutsch" title="Deutsch" width="30" onclick="setlang('de')"/>
+    &nbsp;
+    <img src="icon/en.png" alt="English" title="English" width="30" onclick="setlang('en')"/>
+    &nbsp;
+    <img src="icon/se.png" alt="Svenska" title="Svenska" width="30" onclick="setlang('se')"/>
+    </p>
+    </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
