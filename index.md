@@ -13,7 +13,7 @@ Precios entre Octubre y Marzo: Euro 300 por semana o 700 por mes
 Calm and central, 5 minutes from the beach, 10 minutes to the Balcón de Europa.
 Prices from October to March: Euro 300 per week, 700 per month.</i>
 
-[Reservación por correo electrónico, email a Casa Patricia](mailto:Casa Patricia <jeremy@tammik.ca>)
+[Más información y reservación por correo electrónico, email a Casa Patricia](mailto:Casa Patricia <jeremy@tammik.ca>)
 
 <!--Tel. +34-619-664-282,-->
 
