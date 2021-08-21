@@ -40,8 +40,11 @@ https://github.com/casapatricia/casapatricia.github.io/blob/master/photo/2020-07
 https://casapatricia.github.io/photo/2020-07-24/thumb/1_dormitorio_grande.jpg
 -->
 
+<p></p>
 
-### August 2020
+## Galerías Anteriores
+
+### Agosto 2020
 
 <div jtgallery="2020-08-12,dormitorio_grande_matrimonio,dormitorio_grande_matrimonio_2,dormitorio_medio_dos_camas,dormitorio_medio_dos_camas_2,dormitorio_pequeno_dos_camas,salón,salón_2,vistas_plaza_andalucia,vistas_plaza_andalucia_2,balcón_y_vistas_plaza_andalucia,cocina,cocina_2,cocina_3,cuarto_de_baño,cuarto_de_baño_ducha">
 </div>
@@ -68,7 +71,7 @@ https://casapatricia.github.io/photo/2020-07-24/thumb/1_dormitorio_grande.jpg
 
 -->
 
-### July 2020
+### Julio 2020
 
 <div jtgallery="2020-07-24,1_dormitorio_grande,2_dormitorio_medio,3_dormitorio_pequeno,4_salon,5_cocina,6_cocina_2,7_bano,8_bano_2,9_pasillo,9a_pasillo_2">
 </div>
