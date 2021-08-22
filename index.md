@@ -30,7 +30,7 @@ Habitaciones:
 - Cuarto de baño
 - Cocina equipada
 
-<div jtgallery="2021-06-11_cginmobiliaria,r1344_01_hall.jpg,r1344_22_hall.jpg,r1344_02_master_bedroom.jpg,r1344_04_master_bedroom.jpg,r1344_05_master_bedroom.jpg,r1344_06_bathroom.jpg,r1344_08_bathroom.jpg,r1344_09_bathroom.jpg,r1344_10_bathroom.jpg,r1344_11_small_bedroom.jpg,r1344_13_small_bedroom.jpg,r1344_14_kitchen.jpg,r1344_15_kitchen.jpg,r1344_18_kitchen.jpg,r1344_20_kitchen.jpg,r1344_21_kitchen.jpg,r1344_25_medium_bedroom.jpg,r1344_28_medium_bedroom.jpg,r1344_30_living.jpg,r1344_32_living.jpg,r1344_33_living.jpg,r1344_34_living.jpg,r1344_36_living.jpg,r1344_37_balcony.jpg,r1344_38_balcony.jpg,r1344_39_balcony.jpg,r1344_40_balcony.jpg,r1344_41_view.jpg,r1344_42_view.jpg,r1344_43_view.jpg">
+<div jtgallery="2021-06-11_cginmobiliaria,r1344_01_hall.jpg,r1344_22_hall.jpg,r1344_02_master_bedroom.jpg,r1344_04_master_bedroom.jpg,r1344_05_master_bedroom.jpg,r1344_06_bathroom.jpg,r1344_08_bathroom.jpg,r1344_09_bathroom.jpg,r1344_10_bathroom.jpg,r1344_11_small_bedroom.jpg,r1344_13_small_bedroom.jpg,r1344_14_kitchen.jpg,r1344_15_kitchen.jpg,r1344_18_kitchen.jpg,r1344_20_kitchen.jpg,r1344_21_kitchen.jpg,r1344_25_medium_bedroom.jpg,r1344_28_medium_bedroom.jpg,r1344_30_living.jpg,r1344_32_living.jpg,r1344_33_living.jpg,r1344_34_living.jpg,r1344_36_living.jpg,r1344_37_balcony.jpg,r1344_39_balcony.jpg,r1344_41_view.jpg,r1344_42_view.jpg,r1344_43_view.jpg">
 </div>
 
 <!-- 
