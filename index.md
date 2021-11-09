@@ -2,7 +2,7 @@
 
 <!-- [Castillano](#castillano) &ndash; [English](#english) -->
 
-<a name="castillano"></a>Se alquila Casa Patricia, un apartamento precioso para una familia de 6 o más en Nerja: 3 dormitorios, uno grande con cama de matrimonio, dos medianos con dos camas individuales cada uno, salón suroeste con vistas dobles en dos direcciones, balcón con vista a la Plaza Andalucía , baño con bidet y ducha, cocina grande equipado con electrodomésticos nuevos de primera calidad, lavavajillas, lavadora, microondas, superficie 80 metros cuadrados, ascencor.
+<a name="castillano"></a>Se alquila Casa Patricia, un apartamento precioso para una familia de 6 o más en Nerja: 3 dormitorios, uno grande con cama de matrimonio, dos medianos con dos camas individuales cada uno, salón suroeste con vistas dobles en dos direcciones, balcón con vista a la Plaza Andalucía , baño con bidet y ducha, cocina grande equipado con electrodomésticos nuevos de primera calidad, lavavajillas, lavadora, microondas, superficie 80 metros cuadrados, ascensor.
 
 Zona Plaza Andalucía, tranquila y céntrica, a 5 minutos de la playa y 10 minutos del Balcón de Europa.
 
